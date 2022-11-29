@@ -3,7 +3,7 @@
 [Requirements](#Requirements)
 - [Install Java](#java)
 - [Install Gradle](#gradle)
-- [Install IntelliJ (Optional)](#intelliJ)
+- [Install IntelliJ](#intelliJ)
 
 
 <a name="Requirements"></a>
