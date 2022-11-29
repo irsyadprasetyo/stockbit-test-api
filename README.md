@@ -1,4 +1,4 @@
-# test-automation-stockbit
+# Stockbit api test
 
 [Requirements](#Requirements)
 - [Install Java](#java)
